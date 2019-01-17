@@ -1,5 +1,6 @@
 {
   "projects": {
-    "jhplus-pf01": "jhplus-pf01"
+    "jhplus-pf01": "jhplus-pf01",
+    "default": "jhplus-pf01"
   }
 }
